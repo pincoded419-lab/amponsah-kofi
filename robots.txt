@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pincoded419-lab.github.io/amponsah-kofi/sitemap.xml
